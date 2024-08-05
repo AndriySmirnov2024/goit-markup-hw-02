@@ -24,8 +24,8 @@ a {
 .logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
-  line-height: 1.11;
-  letter-spacing: 3%;
+  line-height: 1.17;
+  letter-spacing: 0.3em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
