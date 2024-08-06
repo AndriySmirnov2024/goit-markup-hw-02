@@ -19,7 +19,7 @@ a {
     line-height: 1.17;
     letter-spacing: 0.03em
 }
-.address {
+.header-address {
     font-style: normal;
 }
 .nav {
@@ -43,6 +43,7 @@ a {
   letter-spacing: 0.02em;
 }
 .menu-item {
+    
 }
 
 .menu-link {
@@ -72,7 +73,7 @@ a {
 /* #endregion Header */
 /* #region Hero */
 
-.h1 {
+.hero-h1 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
@@ -90,7 +91,8 @@ a {
   line-height: 150%;
   letter-spacing: 0.04em;
   color: #fff;
-  background-color: #9747ff;
+  background-color: #4D5AE5;
+  cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus {
