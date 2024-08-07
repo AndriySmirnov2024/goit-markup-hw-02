@@ -117,7 +117,7 @@ a {
 }
 /* #endregion section2 */
 /* #region section3 */
-h2 {
+.section3-h2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
