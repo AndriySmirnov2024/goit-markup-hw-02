@@ -116,12 +116,15 @@ a {
   color: #434455;
 }
 .section2-list {
-  
+
 }
 /* #endregion section2 */
 /* #region section3 */
 .section3 {
   background-color: #f4f4fd;
+}
+.section3-list {
+  background-color: #ffffff;
 }
 .section3-h2 {
   font-weight: 700;
