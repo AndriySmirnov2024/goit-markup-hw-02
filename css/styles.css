@@ -99,7 +99,7 @@ a {
 }
 /* #endregion Hero */
 /* #region section2 */
-.section2-h3 {
+.services-title {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -107,14 +107,14 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.section2-text {
+.services-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.section2-list {
+.services-list {
 }
 /* #endregion section2 */
 /* #region section3 */
