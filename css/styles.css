@@ -117,14 +117,14 @@ a {
 .services-list {
 }
 /* #endregion section-services */
-/* #region section3 */
-.section3 {
+/* #region section-team */
+.section-team {
   background-color: #f4f4fd;
 }
-.section3-list-item {
+.section-team-list-item {
   background-color: #ffffff;
 }
-.section3-h2 {
+.section-team-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
@@ -133,7 +133,7 @@ a {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.section3-h3 {
+.section-team-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -141,7 +141,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.section3-text {
+.section-team-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -149,7 +149,7 @@ a {
   text-align: center;
   color: #434455;
 }
-/* #endregion section3 */
+/* #endregion section-team */
 /* #region section4 */
 .section4-h3 {
   font-weight: 500;
